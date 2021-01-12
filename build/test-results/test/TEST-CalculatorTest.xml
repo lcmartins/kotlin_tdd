@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-12T12:59:38" hostname="PE0355Z7" time="0.04">
+  <properties/>
+  <testcase name="testDivide2By2$tdd_app()" classname="CalculatorTest" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
